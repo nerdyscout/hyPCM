@@ -1,0 +1,3 @@
+(sym_lib_table
+  (lib (name hyCyclePro_4ch-rescue)(type Legacy)(uri ${KIPRJMOD}/hyCyclePro_4ch-rescue.lib)(options "")(descr ""))
+)
