@@ -1,4 +1,4 @@
-update=2021-11-06 13:34:28
+update=Mon 27 Dec 2021 12:11:54 PM CET
 version=1
 last_client=kicad
 [cvpcb]
@@ -258,3 +258,13 @@ uViaDrill=0.1
 dPairWidth=0.2
 dPairGap=0.25
 dPairViaGap=0.25
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=docs
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=
+SpiceAjustPassiveValues=0
+LabSize=50
+ERC_TestSimilarLabels=1
